@@ -1,0 +1,57 @@
+.container{
+    width: 100%;
+    bottom: 4rem;
+    font-style: 2rem;
+    
+}
+.head1{
+    font-size: 6vw;
+    color: #f7f706;
+    text-align: center;
+    margin: 1rem;
+}
+.flex_main{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    gap: 1rem;
+}
+.content{
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.img{
+    margin-bottom: 2rem;
+    width: 30rem;
+    text-align: center;
+    border-radius: 1rem;
+    border: .4rem solid black;
+    box-shadow: 4px 4px 30px 10px rgba(236, 97, 4, 0.8);
+}
+.name{
+    color :#f7f706;
+    text-align: center;
+    margin: 1rem;
+    font-size: 3rem;
+}
+.position {
+    color: red;
+    text-align: center;
+    font-size: 2rem;
+}
+.phone{
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 2rem;
+    color: aliceblue;
+}
+.emails{
+    text-align: center;
+    letter-spacing: 1px;
+    font-size: 2rem;
+    color: aliceblue;
+}
